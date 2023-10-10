@@ -1,0 +1,15 @@
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\bin\Debug\net6.0\TP.09.10.exe
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\bin\Debug\net6.0\TP.09.10.deps.json
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\bin\Debug\net6.0\TP.09.10.runtimeconfig.json
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\bin\Debug\net6.0\TP.09.10.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\bin\Debug\net6.0\TP.09.10.pdb
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.csproj.AssemblyReference.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.AssemblyInfoInputs.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.AssemblyInfo.cs
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.csproj.CoreCompileInputs.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\refint\TP.09.10.dll
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.pdb
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\TP.09.10.genruntimeconfig.cache
+C:\Users\konsa\OneDrive\Área de Trabalho\IFSP\4º Semestre\Estrutura de Dados II\TP.09.10\TP.09.10\obj\Debug\net6.0\ref\TP.09.10.dll
